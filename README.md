@@ -1,4 +1,4 @@
-# MCBIOS2018_Outreach Events
+# MCBIOS 2018_Outreach Events
 Location: Starkville, MS 
 
 1) Resume/ Career Walk-in Clinic- this would be a one-day opportunity during the conference for which someone would be dedicated to staying in an enclosed area to discuss career options during a one-on-one session, plus get some help with resume writing, etc.  
@@ -7,4 +7,6 @@ HR professional made available
 MCBIOS board member as a facilitator 
 
 2) Job board- dedicated space in the conference area where jobs are announced from all sources (private companies, nonprofit, and/or academic/public universities)
+
+3)Training workshop (Career-focused for trainees)
 
